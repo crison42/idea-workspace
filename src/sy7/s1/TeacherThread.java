@@ -19,7 +19,7 @@ class TeacherThread implements Runnable {
             synchronized (lock) {
                 if (notesCount > 0) {
                     notesCount--;
-                    System.out.println(teacherName + "分发了一份学习笔记，剩余" + notesCount + "份");
+                    System.out.println(teacherName + "正在发第" + notesCount + "份学习笔记");
                 } else {
                     // 如果所有学习笔记都被分发完，则结束线程
                     break;
