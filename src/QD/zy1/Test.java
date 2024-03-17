@@ -1,4 +1,4 @@
-package sy1;
+package QD.zy1;
 
 public class Test {
     /**
@@ -13,8 +13,8 @@ public class Test {
      **/
     public static void main(String[] args) {
 //创建运动员或教练的对象
-        sy1.PingPangSporter pps = new PingPangSporter("邓亚萍", 23);
-        sy1.BasketballSporter bbs = new BasketballSporter("姚明", 33);
+        QD.zy1.PingPangSporter pps = new PingPangSporter("邓亚萍", 23);
+        QD.zy1.BasketballSporter bbs = new BasketballSporter("姚明", 33);
         System.out.println(pps.getName() + "," + pps.getAge());
         System.out.println(bbs.getName() + "," + bbs.getAge());
         pps.study();
@@ -22,7 +22,7 @@ public class Test {
         pps.playPingpang();
         bbs.playBasketball();
         bbs.study();
-        sy1.Coach coach1 = new PingPangCoach("张三", 40);
+        QD.zy1.Coach coach1 = new PingPangCoach("张三", 40);
         Coach coach2 = new BasketballCoach("李四", 50);
         coach1.teach();
         coach2.teach();

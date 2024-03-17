@@ -1,4 +1,4 @@
-package sy1;
+package QD.zy1;
 
 public  class BasketballSporter extends Sporter{
     public BasketballSporter(String name, int age) {

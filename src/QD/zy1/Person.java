@@ -1,4 +1,4 @@
-package sy1;
+package QD.zy1;
 
 public abstract class Person {
     public String name;

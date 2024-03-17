@@ -1,4 +1,4 @@
-package sy1;
+package QD.zy1;
 
 public class PingPangSporter extends Sporter implements English{
     public PingPangSporter(String name, int age) {
