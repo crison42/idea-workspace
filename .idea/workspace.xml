@@ -1,57 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="idea-workspace:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="a">
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no1/SalesMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no1/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no1/StrategyA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no1/StrategyB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no1/StrategyC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no2/SalesMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no2/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no2/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no2/StrategyA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no2/StrategyB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no2/StrategyC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no3/BigPen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no3/Black.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no3/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no3/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no3/MiddlePen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no3/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no3/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy1/no3/SmallPen.java" afterDir="false" />
+    <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/idea_workspace_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy1/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy1/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy1/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy1/MySQLJDBCExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy1/jumpToServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy1/JSp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy1/cfb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy1/in.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy1/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/banks.t8GSBQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/banks.t8GSBQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/hospital.Ov7m7Q.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/hospital.Ov7m7Q.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/lesson23_jdbc.Aarv5Q.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/lesson23_jdbc.Aarv5Q.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/myspj.gcA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/myspj.gcA4Bg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent.D_uPyg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent.D_uPyg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent.D_uPyg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent.D_uPyg.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent2.A2dvhw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent2.A2dvhw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sakila.oXLGyQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sakila.oXLGyQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/world.khvBBg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/world.khvBBg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/BasketballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/BasketballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/BasketballSporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/BasketballSporter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/English.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/English.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/PingPangCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/PingPangCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/PingPangSporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/PingPangSporter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/Sporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/Sporter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sy1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea-workspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy1/no1/SalesMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy1/no1/SalesMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy1/no3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy1/no3/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -67,52 +101,294 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/l/idea-workspace/src/sy1/no2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Administrator/idea-workspace/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Java 草稿.Demo3.executor": "Run",
+    "Java 草稿.MySQLJDBCExample.executor": "Run",
+    "JavaScript 调试.cfb.jsp.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat 服务器.Tomcat 9.0.87.executor": "Run",
+    "Tomcat 服务器.cfb.jsp.executor": "Run",
+    "Tomcat 服务器.未命名.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21 (2)",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/l/idea-workspace/src/JW/sy1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Administrator/idea-workspace/src/Main.java",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Client.executor": "Run",
+    "应用程序.Demo1.executor": "Run",
+    "应用程序.Demo2.executor": "Run",
+    "应用程序.Demo3.executor": "Run",
+    "应用程序.Test.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="sy1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\web\WebContent\sy1" />
       <recent name="C:\Users\l\idea-workspace\src\sy1\no2" />
       <recent name="C:\Users\l\idea-workspace" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\src\JW\sy1" />
+      <recent name="C:\Users\l\idea-workspace\web\WebContent\sy1" />
+      <recent name="C:\Users\l\idea-workspace\web\WebContent" />
       <recent name="C:\Users\Administrator\idea-workspace\src\sy8\s1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="sy1.no2" />
       <recent name="sy" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.MySQLJDBCExample">
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JW.sy1.Demo3" />
+      <module name="idea-workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JW.sy1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySQLJDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JW.sy1.MySQLJDBCExample" />
+      <module name="idea-workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JW.sy1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.87" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.87" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="idea-workspace:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/idea_workspace_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="1532227e-233f-4de9-a2c4-13dcd2f53c65" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58284" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="idea-workspace:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="cfb.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.87" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WebContent/sy1/cfb.jsp" />
+      <deployment>
+        <artifact name="idea-workspace:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/idea_workspace_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="80c5a4a9-66ad-42a8-aa7d-00232ab76e21" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54960" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="idea-workspace:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.87" />
+      <item itemvalue="Tomcat 服务器.cfb.jsp" />
+      <item itemvalue="应用程序.Demo3" />
+      <item itemvalue="应用程序.MySQLJDBCExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MySQLJDBCExample" />
+        <item itemvalue="应用程序.Demo3" />
+        <item itemvalue="Tomcat 服务器.cfb.jsp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -143,6 +419,12 @@
       <workItem from="1710068929391" duration="1308000" />
       <workItem from="1710591865101" duration="2307000" />
       <workItem from="1710654607971" duration="1552000" />
+      <workItem from="1710762423995" duration="76000" />
+      <workItem from="1710837223718" duration="116000" />
+      <workItem from="1710922711887" duration="3230000" />
+      <workItem from="1710926757883" duration="12708000" />
+      <workItem from="1710985830832" duration="978000" />
+      <workItem from="1711003594283" duration="5456000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -229,5 +511,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="a" />
     <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/idea_workspace$Tomcat_9_0_87.ic" NAME="Tomcat 9.0.87 覆盖结果" MODIFIED="1710937284808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

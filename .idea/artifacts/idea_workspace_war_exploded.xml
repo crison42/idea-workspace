@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="idea-workspace:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/idea_workspace_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="idea-workspace" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.27" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="idea-workspace/web/Web" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/JW/sy1/AccountServlet.java" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/JW/sy1" />
+    </root>
+  </artifact>
+</component>

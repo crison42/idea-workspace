@@ -8,6 +8,6 @@ public class Client {
     pen = new MiddlePen();
     pen.setColor(color);
     pen.draw();
-    }
 
+    }
 }
