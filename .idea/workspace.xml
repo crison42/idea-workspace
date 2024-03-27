@@ -10,52 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/idea_workspace_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy1/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy1/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy1/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy1/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy1/MySQLJDBCExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy1/jumpToServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy1/JSp.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy1/cfb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy1/in.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy1/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy1.rar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/banks.t8GSBQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/banks.t8GSBQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/hospital.Ov7m7Q.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/hospital.Ov7m7Q.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/lesson23_jdbc.Aarv5Q.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/lesson23_jdbc.Aarv5Q.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/myspj.gcA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/myspj.gcA4Bg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent.D_uPyg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent.D_uPyg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent.D_uPyg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent.D_uPyg.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent2.A2dvhw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/mystudent2.A2dvhw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sakila.oXLGyQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sakila.oXLGyQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/world.khvBBg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7ea85137-163d-442f-b482-9d5bf3c99aff/storage_v2/_src_/schema/world.khvBBg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea-workspace.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy1/no1/SalesMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy1/no1/SalesMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy1/no3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy1/no3/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +87,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.import",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Client.executor": "Run",
     "应用程序.Demo1.executor": "Run",
@@ -425,6 +383,8 @@
       <workItem from="1710926757883" duration="12708000" />
       <workItem from="1710985830832" duration="978000" />
       <workItem from="1711003594283" duration="5456000" />
+      <workItem from="1711175758740" duration="804000" />
+      <workItem from="1711455304118" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -490,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710656159149</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1711175783760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711175783760</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +478,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/idea_workspace$Tomcat_9_0_87.ic" NAME="Tomcat 9.0.87 覆盖结果" MODIFIED="1710937284808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
