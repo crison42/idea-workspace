@@ -10,20 +10,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/ProductDaoImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/Signon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/SignonDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/SignonDaoImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy2/SignonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/idea_workspace_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/idea_workspace_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no1/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no1/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/CircleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/RectangleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no2/TriangleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/CircleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/RectangleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/ShapeFactory.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/t3/no3/TriangleFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea-workspace.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy1.rar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +57,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "crison42"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;crison42&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -105,7 +117,7 @@
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "21 (2)",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/l/idea-workspace/src/JW/sy1",
+    "last_opened_file_path": "C:/Users/l/idea-workspace/src/QD/t3/no3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -138,6 +150,8 @@
       <recent name="sy1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\src\QD\t3\no3" />
+      <recent name="C:\Users\l\idea-workspace\src\QD\t3\no2" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy1" />
       <recent name="C:\Users\l\idea-workspace\src\sy1\no2" />
       <recent name="C:\Users\l\idea-workspace" />
@@ -161,7 +175,20 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.87">
+  <component name="RunManager" selected="应用程序.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QD.t3.no1.Client" />
+      <module name="idea-workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QD.t3.no1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JW.sy1.Demo3" />
       <module name="idea-workspace" />
@@ -186,95 +213,6 @@
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat 9.0.87" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.87" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <deployment>
-        <artifact name="idea-workspace:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/idea_workspace_war_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="1532227e-233f-4de9-a2c4-13dcd2f53c65" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="58284" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="idea-workspace:war exploded" />
-        </option>
       </method>
     </configuration>
     <configuration name="cfb.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.87" ALTERNATIVE_JRE_ENABLED="false">
@@ -364,55 +302,15 @@
         </option>
       </method>
     </configuration>
-    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.87" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WebContent/sy1/index.jsp" />
-      <deployment>
-        <artifact name="idea-workspace:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/idea_workspace_war_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="c19d7ff1-e36c-4675-a29f-72bffda0853f" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="idea-workspace:war exploded" />
-        </option>
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Tomcat 服务器.Tomcat 9.0.87" />
-      <item itemvalue="Tomcat 服务器.index.jsp" />
       <item itemvalue="Tomcat 服务器.cfb.jsp" />
+      <item itemvalue="应用程序.Client" />
       <item itemvalue="应用程序.Demo3" />
       <item itemvalue="应用程序.MySQLJDBCExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Tomcat 服务器.index.jsp" />
+        <item itemvalue="应用程序.Client" />
         <item itemvalue="应用程序.MySQLJDBCExample" />
         <item itemvalue="应用程序.Demo3" />
         <item itemvalue="Tomcat 服务器.cfb.jsp" />
@@ -456,7 +354,8 @@
       <workItem from="1711003594283" duration="5456000" />
       <workItem from="1711175758740" duration="804000" />
       <workItem from="1711455304118" duration="75000" />
-      <workItem from="1711526323446" duration="6958000" />
+      <workItem from="1711526323446" duration="7131000" />
+      <workItem from="1711622141472" duration="2772000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -538,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711526574496</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit">
+      <option name="closed" value="true" />
+      <created>1711538344910</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711538344910</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
