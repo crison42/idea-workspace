@@ -9,13 +9,12 @@
         <element id="directory" name="lib">
           <element id="library" level="project" name="mysql-connector-java-8.0.27" />
           <element id="library" level="module" name="JUnit4" module-name="idea-workspace" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
         </element>
       </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/WebContent/sy3/n1.jsp" />
       <element id="javaee-facet-resources" facet="idea-workspace/web/Web" />
-      <element id="file-copy" path="$PROJECT_DIR$/web/WebContent/sy1/index.jsp" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/JW/sy1/jumpToServlet.java" />
-      <element id="dir-copy" path="$PROJECT_DIR$/web/WebContent/sy1" />
-      <element id="dir-copy" path="$PROJECT_DIR$/src/JW/sy1" />
     </root>
   </artifact>
 </component>

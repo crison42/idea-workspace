@@ -1,4 +1,4 @@
-package JW.sy2;
+package JW.sy3;
 
 public class Product {
     private String productid;
@@ -39,4 +39,5 @@ public class Product {
 
     public void setPid(String pid) {
     }
+
 }

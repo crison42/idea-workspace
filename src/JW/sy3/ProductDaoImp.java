@@ -1,4 +1,4 @@
-package JW.sy2;
+package JW.sy3;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -78,4 +78,5 @@ public class ProductDaoImp extends DataBase implements ProductDao {
         }
         return productList;
     }
+    
 }
