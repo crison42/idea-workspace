@@ -10,13 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="commit">
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy3/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy3/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy3/js/jquery-1.11.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy3/product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy3/Bookinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy5/Bookinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy5/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy5/category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy5/categoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy5/categoryDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy3/category.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JW/sy3/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JW/sy3/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JW/sy3/ProductDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JW/sy3/ProductDaoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy3/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy3/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy3/n5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy3/n5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy3/n6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy3/n6.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +104,7 @@
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "21 (2)",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/l/idea-workspace/web/WebContent/sy3/pd",
+    "last_opened_file_path": "C:/Users/l/idea-workspace/src/JW/sy5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -134,18 +138,18 @@
       <recent name="sy1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\src\JW\sy5" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy3\pd" />
       <recent name="C:\Users\l\idea-workspace\src\JW\sy3" />
       <recent name="C:\Users\l\idea-workspace\src\QD\t3\no3" />
       <recent name="C:\Users\l\idea-workspace\src\QD\t3\no2" />
-      <recent name="C:\Users\l\idea-workspace\web\WebContent\sy1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\src\JW\sy3" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy3\js" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy3\css" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy3" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy3\pd" />
-      <recent name="C:\Users\l\idea-workspace\src\JW\sy2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="sy1.no2" />
@@ -319,7 +323,7 @@
       <workItem from="1712043799236" duration="610000" />
       <workItem from="1712046391544" duration="398000" />
       <workItem from="1712055091486" duration="2707000" />
-      <workItem from="1712130319832" duration="8215000" />
+      <workItem from="1712130319832" duration="9988000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -441,7 +445,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712134081223</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712139909002</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712139909002</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

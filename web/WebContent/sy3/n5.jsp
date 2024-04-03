@@ -1,7 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=utf-8"
          pageEncoding="utf-8"%>
-<%@ page import="com.haust.dao.Bookinfo" %>
+
 <%@ page import="java.util.ArrayList" %>
+<%@ page import="JW.sy3.Bookinfo" %>
 <html>
 <head>
     <title>表格格式显示图书信息</title>
