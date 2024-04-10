@@ -13,7 +13,6 @@
         </element>
       </element>
       <element id="dir-copy" path="$PROJECT_DIR$/web" />
-      <element id="file-copy" path="$PROJECT_DIR$/web/WebContent/sy3/n1.jsp" />
       <element id="javaee-facet-resources" facet="idea-workspace/web/Web" />
     </root>
   </artifact>
