@@ -11,7 +11,14 @@
     <title>Title</title>
 </head>
 <body>
-
+<%
+    String userName = request.getParameter("userName");
+    String password = request.getParameter("password");
+    if ("tom".equals(userName) && "12345".equals(password))
+        response.sendRedirect("index.jsp");
+    else
+        response.sendRedirect("./page_1/404.html");
+%>
 
 </body>
 </html>
