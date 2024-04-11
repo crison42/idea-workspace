@@ -7,7 +7,7 @@
 <body>
 <%
     out.print("<script>alert('helloworld')</script>");
-    out.print("<script>window.location.href='./testJava3.jsp'</script>");
+    out.print("<script>w00indow.location.href='./testJava3.jsp'</script>");
 %>
 </body>
 </html>
