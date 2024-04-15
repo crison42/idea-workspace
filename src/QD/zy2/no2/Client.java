@@ -1,4 +1,4 @@
-package QD.t3.no2;
+package QD.zy2.no2;
 
 public class Client {
     public static void main(String[] args) {

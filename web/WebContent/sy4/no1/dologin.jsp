@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>接收请求</title>q
+    <title>接收请求</title>
 </head>
 
 <body>

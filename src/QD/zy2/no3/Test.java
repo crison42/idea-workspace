@@ -1,4 +1,4 @@
-package QD.t3.no3;
+package QD.zy2.no3;
 
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;

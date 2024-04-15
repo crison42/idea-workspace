@@ -1,4 +1,4 @@
-package QD.t3.no1;
+package QD.zy2.no1;
 
 public class Triangle implements Shape {
 

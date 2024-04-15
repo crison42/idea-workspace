@@ -17,6 +17,6 @@
 %>
 
 <%--<jsp:forward page="result.jsp"/>--%>
-<%--<a href="./result.jsp">跳转</a>--%>
+<a href="./result.jsp">跳转</a>
 </body>
 </html>
