@@ -10,10 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no3/HouseOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no3/SellHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no3/changhongProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no5/doinvalidate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no5/dologin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no5/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no5/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no5/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy5/no2/doinput.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/doinput.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy5/no2/input.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/input.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy5/no2/large.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/large.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy5/no2/small.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/small.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy5/no2/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/success.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +34,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -136,11 +144,11 @@
       <recent name="sy1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\src\QD\sy3\no3" />
       <recent name="C:\Users\l\idea-workspace\src\QD\zy3\no3" />
       <recent name="C:\Users\l\idea-workspace\src\JW\sy5" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy3\pd" />
       <recent name="C:\Users\l\idea-workspace\src\JW\sy3" />
-      <recent name="C:\Users\l\idea-workspace\src\QD\t3\no3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy5\no1" />
@@ -405,7 +413,7 @@
       <workItem from="1713543295052" duration="1657000" />
       <workItem from="1714456897548" duration="1107000" />
       <workItem from="1714458019772" duration="13105000" />
-      <workItem from="1714883379062" duration="5696000" />
+      <workItem from="1714883379062" duration="7265000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -647,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714921680714</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="commit">
+      <option name="closed" value="true" />
+      <created>1714921989985</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921989985</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
