@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
     <title>猜数字游戏</title>
@@ -14,7 +14,9 @@
 <h1>猜数字游戏</h1>
 <p>随机分配一个0~99之间的数，请输入你猜的数字：</p>
 <form action="guessNumber.jsp" method="post">
-    <input type="text" name="numTxt">
+    <label>
+        <input type="text" name="numTxt">
+    </label>
     <input type="submit" value="提交">
 </form>
 <%

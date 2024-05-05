@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
     <title>产生随机数</title>
@@ -13,7 +13,9 @@
 %>
 随机分配一个一个0~99之间的数，请输入你所猜的数字：
 <form action="doinput.jsp" method="post" name="form1">
-    <input type="text" name="numtxt">
+    <label>
+        <input type="text" name="numtxt">
+    </label>
     <input type="submit" name="submit" value="提交">
 </form>
 </body>

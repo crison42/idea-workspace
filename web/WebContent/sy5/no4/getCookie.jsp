@@ -5,14 +5,14 @@
   Time: 下午6:33
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
     <title>Title</title>
 </head>
 <body>
 <%
-    Cookie c[] = request.getCookies();
+    Cookie[] c = request.getCookies();
     for (Cookie cookie : c) {
         if ("uname".equals(cookie.getName())) {
             out.print(cookie.getValue());
