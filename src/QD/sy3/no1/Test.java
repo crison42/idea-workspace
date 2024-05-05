@@ -1,4 +1,4 @@
-package QD.sy3;
+package QD.sy3.no1;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package QD.sy3;
+package QD.sy3.no1;
 
 public class Suit extends Finery {
     public Suit(ICharacter component) {

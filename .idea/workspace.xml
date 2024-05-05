@@ -9,32 +9,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/Finery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/ICharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/Suit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/TShirts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/Tie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/stuDress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no1/doinvalidate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no1/dologin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no1/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no1/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no1/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no1/welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/doinput.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/input.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/large.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/small.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no2/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no3/application.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no4/addCookie.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy5/no4/getCookie.jsp" afterDir="false" />
+    <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no2/HouseOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no2/SellHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no2/changhongProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy2/no1/PersonSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy2/no1/PersonSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy2/no2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy2/no2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy2/no3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy2/no3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy3/Finery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/Finery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy3/ICharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/ICharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy3/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/Suit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy3/TShirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/TShirts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy3/Tie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/Tie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy3/stuDress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/stuDress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -426,7 +413,7 @@
       <workItem from="1713543295052" duration="1657000" />
       <workItem from="1714456897548" duration="1107000" />
       <workItem from="1714458019772" duration="13105000" />
-      <workItem from="1714883379062" duration="2720000" />
+      <workItem from="1714883379062" duration="5391000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -652,7 +639,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713187612564</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="commit">
+      <option name="closed" value="true" />
+      <created>1714919246943</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1714919246943</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
