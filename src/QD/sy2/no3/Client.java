@@ -2,7 +2,7 @@ package QD.sy2.no3;
 
 public class Client {
     public static void main(String[] args) {
-        System.out.println("软工2213班常洪实验2抽象工厂模式答案");
+        System.out.println("软工2213班付旭实验2抽象工厂模式答案");
 //
         SkinFactory factory;
         Button bt;

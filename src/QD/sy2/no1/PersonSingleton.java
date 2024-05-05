@@ -15,7 +15,7 @@ public class PersonSingleton {
     public static PersonSingleton getIns() {
         if (ins == null) {
             System.out.println("----第一次办理身份证----");
-            ins = new PersonSingleton("常洪", "1081301");
+            ins = new PersonSingleton("付旭", "1081306");
         } else {
             System.out.println("----重复办理身份证," + ins.id + "----已经被分配了");
         }
