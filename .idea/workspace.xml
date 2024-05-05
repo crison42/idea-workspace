@@ -9,19 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no2/HouseOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no2/SellHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no2/changhongProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy3/Finery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/Finery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy3/ICharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/ICharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy3/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/Suit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy3/TShirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/TShirts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy3/Tie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/Tie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy3/stuDress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no1/stuDress.java" afterDir="false" />
+    <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no3/HouseOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no3/SellHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy3/no3/changhongProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,62 +75,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.ProductTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SignonTest.executor&quot;: &quot;Run&quot;,
-    &quot;Java 草稿.Demo3.executor&quot;: &quot;Run&quot;,
-    &quot;Java 草稿.MySQLJDBCExample.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 调试.cfb.jsp.executor&quot;: &quot;Debug&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Tomcat 服务器.Tomcat 9.0.87.executor&quot;: &quot;Run&quot;,
-    &quot;Tomcat 服务器.cfb.jsp.executor&quot;: &quot;Run&quot;,
-    &quot;Tomcat 服务器.index.jsp.executor&quot;: &quot;Run&quot;,
-    &quot;Tomcat 服务器.未命名.executor&quot;: &quot;Run&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21 (2)&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/l/idea-workspace/src/QD/zy3/no3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Administrator/idea-workspace/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Demo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Demo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.QD.sy2.no2.Test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.QD.t3.no2.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.QD.zy3.no2.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.QD.zy3.no3.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ProductTest.executor": "Run",
+    "JUnit.SignonTest.executor": "Run",
+    "Java 草稿.Demo3.executor": "Run",
+    "Java 草稿.MySQLJDBCExample.executor": "Run",
+    "JavaScript 调试.cfb.jsp.executor": "Debug",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat 服务器.Tomcat 9.0.87.executor": "Run",
+    "Tomcat 服务器.cfb.jsp.executor": "Run",
+    "Tomcat 服务器.index.jsp.executor": "Run",
+    "Tomcat 服务器.未命名.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21 (2)",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/l/idea-workspace/src/QD/sy3/no3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Administrator/idea-workspace/src/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Client.executor": "Run",
+    "应用程序.Demo1.executor": "Run",
+    "应用程序.Demo2.executor": "Run",
+    "应用程序.Demo3.executor": "Run",
+    "应用程序.QD.sy2.no2.Test.executor": "Run",
+    "应用程序.QD.t3.no2.Client.executor": "Run",
+    "应用程序.QD.zy3.no2.Client.executor": "Run",
+    "应用程序.QD.zy3.no3.Client.executor": "Run",
+    "应用程序.Test.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ],
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
-      &quot;JAVA&quot;
+    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="sy1" />
@@ -413,7 +405,7 @@
       <workItem from="1713543295052" duration="1657000" />
       <workItem from="1714456897548" duration="1107000" />
       <workItem from="1714458019772" duration="13105000" />
-      <workItem from="1714883379062" duration="5391000" />
+      <workItem from="1714883379062" duration="5696000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -647,7 +639,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714919246943</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="commit">
+      <option name="closed" value="true" />
+      <created>1714921680714</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921680714</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
