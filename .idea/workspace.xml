@@ -9,15 +9,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no2/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no2/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/zy5/BlueState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/zy5/GreenState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/zy5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QD/zy5/YellowState.java" afterDir="false" />
+    <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no3/DesignPatternExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no3/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no3/JavaExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no4/DesignPatternExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no4/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no4/JavaExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QD/sy4/no4/SimpleFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy4/no2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy4/no2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QD/sy4/no2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy4/no2/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +107,7 @@
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "21 (2)",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/l/idea-workspace/web/WebContent/sy5/no5",
+    "last_opened_file_path": "C:/Users/l/idea-workspace/src/QD/sy4/no4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -114,7 +118,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Client.executor": "Run",
     "应用程序.Demo1.executor": "Run",
@@ -144,11 +148,11 @@
       <recent name="sy1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\src\QD\sy4\no4" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy5\no5" />
       <recent name="C:\Users\l\idea-workspace\src\QD\sy3\no3" />
       <recent name="C:\Users\l\idea-workspace\src\QD\zy3\no3" />
       <recent name="C:\Users\l\idea-workspace\src\JW\sy5" />
-      <recent name="C:\Users\l\idea-workspace\web\WebContent\sy3\pd" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy5\no1" />
@@ -175,13 +179,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.QD.sy4.no1.Client">
-    <configuration name="QD.sy4.no1.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QD.sy4.no1.Client" />
+  <component name="RunManager" selected="应用程序.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QD.sy4.no3.Client" />
       <module name="idea-workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QD.sy4.no1.*" />
+          <option name="PATTERN" value="QD.sy4.no3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QD.zy3.no3.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QD.zy3.no3.Client" />
+    <configuration name="QD.sy4.no1.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QD.sy4.no1.Client" />
       <module name="idea-workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QD.zy3.no3.*" />
+          <option name="PATTERN" value="QD.sy4.no1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,19 +334,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat 服务器.Tomcat 9.0.87" />
+      <item itemvalue="应用程序.Client" />
       <item itemvalue="应用程序.Test" />
       <item itemvalue="应用程序.QD.sy4.no1.Client" />
       <item itemvalue="应用程序.QD.zy4.no1.Client" />
       <item itemvalue="应用程序.QD.zy4.no2.Client" />
-      <item itemvalue="应用程序.QD.zy3.no3.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Client" />
         <item itemvalue="应用程序.QD.sy4.no1.Client" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.QD.zy4.no2.Client" />
         <item itemvalue="应用程序.QD.zy4.no1.Client" />
-        <item itemvalue="应用程序.QD.zy3.no3.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +419,7 @@
       <workItem from="1714458019772" duration="13105000" />
       <workItem from="1714883379062" duration="7573000" />
       <workItem from="1714993212404" duration="6120000" />
-      <workItem from="1715065476988" duration="1836000" />
+      <workItem from="1715065476988" duration="5467000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -705,7 +709,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715000242530</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="commit">
+      <option name="closed" value="true" />
+      <created>1715067466482</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1715067466482</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
