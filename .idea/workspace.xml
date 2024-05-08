@@ -10,8 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_servlet_jsp_jstl_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javax.servlet.jsp.jstl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy6/el-demo3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy6/jstl-demo1.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebContent/sy6/Servlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy6/Servlet1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea-workspace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WebContent/sy6/el-demo1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy6/el-demo1.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +93,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Tomcat 服务器.Tomcat 9.0.87.executor": "Debug",
+    "Tomcat 服务器.Tomcat 9.0.87.executor": "Run",
     "Tomcat 服务器.cfb.jsp.executor": "Run",
     "Tomcat 服务器.index.jsp.executor": "Run",
     "Tomcat 服务器.未命名.executor": "Run",
@@ -420,7 +424,7 @@
       <workItem from="1715065476988" duration="5526000" />
       <workItem from="1715100316609" duration="728000" />
       <workItem from="1715140938337" duration="5831000" />
-      <workItem from="1715159654101" duration="5123000" />
+      <workItem from="1715159654101" duration="6131000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -750,7 +754,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715167677451</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="commit">
+      <option name="closed" value="true" />
+      <created>1715168390939</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1715168390939</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -774,22 +786,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/web/WebContent/sy6/el-demo1.jsp</url>
-          <line>45</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/web/WebContent/sy6/el-demo1.jsp</url>
-          <line>41</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

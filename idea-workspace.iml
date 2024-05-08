@@ -32,5 +32,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="jasper-6.0.53" level="project" />
+    <orderEntry type="library" name="javax.servlet.jsp.jstl-1.2.5" level="project" />
   </component>
 </module>
