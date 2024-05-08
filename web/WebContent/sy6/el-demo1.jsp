@@ -1,3 +1,10 @@
+<jsp:useBean id="map1" scope="request" type="java.util.Map"/>
+<jsp:useBean id="uname" scope="request" type="java.util.List"/>
+<jsp:useBean id="age" scope="request" type="JW.sy6.Servlet1"/>
+<jsp:useBean id="user" scope="request" type="JW.sy2.Signon"/>
+<jsp:useBean id="username" scope="request" type="JW.sy6.Servlet1"/>
+<jsp:useBean id="map" scope="request" type="JW.sy6.Servlet1"/>
+<jsp:useBean id="brands" scope="request" type="JW.sy6.Servlet1"/>
 <%@ page import="JW.sy2.Signon" %>
 <%@ page contentType="text/html;charset=UTF-8" pageEncoding="utf-8" language="java" %>
 <html lang="zh">

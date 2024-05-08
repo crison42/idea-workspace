@@ -22,7 +22,7 @@ public class Servlet1 extends HttpServlet {
         signon.setUsername("rose");
         signon.setPassword("1234");
         session.setAttribute("user", signon);// 存储对象到 Session 作用域
-        String uname[] = {"tom", "jack"};
+        String[] uname = {"tom", "jack"};
         request.setAttribute("uname", uname);// 存储数组到 request 作用域
         HashMap<String, String> map = new HashMap<String, String>();
         map.put("uname", "tom");
