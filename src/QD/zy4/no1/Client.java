@@ -9,12 +9,12 @@ public class Client {
         office1 = new changhongLeaf("校长办公室", 2);
         informationDepartment = new changhongComposite("信息与控制工程学部", 2);
         machineryDepartment = new changhongComposite("机械工程学部", 2);
-        office2 = new changhongLeaf("教务部", 2);
+        office2 = new changhongLeaf("教务处", 2);
 
         haust.addChild(office1);
         haust.addChild(machineryDepartment);
-        haust.addChild(office2);
         haust.addChild(informationDepartment);
+        haust.addChild(office2);
 
         informationDepartment.addChild(new changhongLeaf("软件学院", 3));
         informationDepartment.addChild(new changhongLeaf("信息工程学院", 3));

@@ -13,7 +13,7 @@
     counter++;
     session.setAttribute("counter", counter);
     int ranNum = (int) session.getAttribute("ranNum");
-    String numTxt01 = request.getParameter("numTxt");
+    String numTxt01 = request.getParameter("numtxt");
     int numTxt = Integer.parseInt(numTxt01);
     if (ranNum > numTxt) {
         response.sendRedirect("small.jsp");

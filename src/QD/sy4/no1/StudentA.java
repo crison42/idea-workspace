@@ -1,7 +1,7 @@
 package QD.sy4.no1;
 
 public class StudentA {
-    private String name;
+    private final String name;
 
     public StudentA(String name) {
         this.name = name;

@@ -1,7 +1,7 @@
 package QD.sy3.no3;
 
 public class changhongProxy implements SellHouse {
-    private SellHouse houseOwner;
+    private final SellHouse houseOwner;
 
     public changhongProxy(SellHouse houseOwner) {
         this.houseOwner = houseOwner;

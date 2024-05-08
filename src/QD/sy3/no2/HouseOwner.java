@@ -1,7 +1,7 @@
 package QD.sy3.no2;
 
 public class HouseOwner implements SellHouse {
-    private String houseName;
+    private final String houseName;
 
     public HouseOwner(String houseName) {
         this.houseName = houseName;
