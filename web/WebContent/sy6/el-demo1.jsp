@@ -1,8 +1,5 @@
-<jsp:useBean id="username" scope="request" type="JW.sy6.Servlet1"/>
-<jsp:useBean id="map" scope="request" type="JW.sy6.Servlet1"/>
-<jsp:useBean id="brands" scope="request" type="JW.sy6.Servlet1"/>
 <%@ page import="JW.sy2.Signon" %>
-<%@ page contentType="text/html;charset=UTF-8" pageEncoding="utf-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" pageEncoding="utf-8" %>
 <html lang="zh">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
