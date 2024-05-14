@@ -1,7 +1,8 @@
 package QD.sy4.no1;
 
 public class Teacher {
-    private Command Command1, Command2;
+    private final Command Command1;
+    private final Command Command2;
 
     public Teacher(Command Command1, Command Command2) {
         this.Command1 = Command1;
