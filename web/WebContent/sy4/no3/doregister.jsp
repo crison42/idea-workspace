@@ -15,7 +15,7 @@
     request.setCharacterEncoding("utf-8");
     String username = request.getParameter("username");
     String password = request.getParameter("password");
-    String hobby[] = request.getParameterValues("hobby");
+    String[] hobby = request.getParameterValues("hobby");
     String sex = request.getParameter("sex");
     if (hobby != null)
         for (String h : hobby) {

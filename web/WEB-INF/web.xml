@@ -49,7 +49,7 @@
 
     </jsp-config>
 
-    <!-- JSP Servlet 映射 -->
+    <!--    JSP Servlet 映射 -->
     <servlet>
         <servlet-name>jsp</servlet-name>
         <servlet-class>org.apache.jasper.servlet.JspServlet</servlet-class>
@@ -69,7 +69,7 @@
         <url-pattern>*.jsp</url-pattern>
     </servlet-mapping>
 
-    <!-- 其他配置 -->
+    <!--    其他配置 -->
     <servlet>
         <servlet-name>Servlet1</servlet-name>
         <servlet-class>JW.sy6.Servlet1</servlet-class>
@@ -78,7 +78,6 @@
         <servlet-name>Servlet1</servlet-name>
         <url-pattern>/Servlet1</url-pattern>
     </servlet-mapping>
-
     <welcome-file-list>
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>

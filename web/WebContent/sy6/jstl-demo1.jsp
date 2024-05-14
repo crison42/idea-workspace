@@ -17,7 +17,7 @@ userName 属性的值为：
     unknown
 </c:out><br/>
 <%--第 3 个 out 标签 --%>
-<c:out value="${param.username }" escapeXml="true">
+<c:out value="${param.username }" escapeXml="false">
     <meta http-equiv="refresh"
           content="5;url=https://www.haust.edu.cn"/>
 </c:out>

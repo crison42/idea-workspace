@@ -42,10 +42,10 @@
             <td>
                 <c:choose>
                     <c:when test="${brand.type == 1}">
-                        Online
+                        启用
                     </c:when>
                     <c:otherwise>
-                        Offline
+                        禁用
                     </c:otherwise>
                 </c:choose>
             </td>

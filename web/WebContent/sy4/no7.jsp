@@ -16,7 +16,7 @@
     List<ProItem> pilist = pidi.findAll();
 %>
 <%
-    String price[] = request.getParameterValues("price");
+    String[] price = request.getParameterValues("price");
     double sum = 0;
     if (price != null) {
         for (String str : price) {

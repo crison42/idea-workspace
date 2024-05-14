@@ -3,7 +3,7 @@ package QD.zy3.no3;
 import QD.zy3.no1.TFCard;
 
 public class SDAdapterTF implements SDCard {
-    private TFCard tfCard;
+    private final TFCard tfCard;
 
     public SDAdapterTF(TFCard tfCard) {
         this.tfCard = tfCard;

@@ -12,7 +12,7 @@
 </head>
 <body>
 <%
-    String count[] = request.getParameterValues("count");
+    String[] count = request.getParameterValues("count");
     int sum = 0;
     if (count != null) {
         for (String str : count) {
