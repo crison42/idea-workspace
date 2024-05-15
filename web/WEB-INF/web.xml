@@ -8,35 +8,23 @@
     <jsp-config>
 
         <taglib>
-
             <taglib-uri>http://java.sun.com/jsp/jstl/core</taglib-uri>
-
             <taglib-location>/WEB-INF/c.tld</taglib-location>
-
         </taglib>
 
         <taglib>
-
             <taglib-uri>http://java.sun.com/jsp/jstl/fmt</taglib-uri>
-
             <taglib-location>/WEB-INF/fmt.tld</taglib-location>
-
         </taglib>
 
         <taglib>
-
             <taglib-uri>http://java.sun.com/jsp/jstl/sql</taglib-uri>
-
             <taglib-location>/WEB-INF/sql.tld</taglib-location>
-
         </taglib>
 
         <taglib>
-
             <taglib-uri>http://java.sun.com/jsp/jstl/xml</taglib-uri>
-
             <taglib-location>/WEB-INF/x.tld</taglib-location>
-
         </taglib>
 
         <taglib>
@@ -78,13 +66,48 @@
         <servlet-name>Servlet1</servlet-name>
         <url-pattern>/Servlet1</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>test01</servlet-name>
+        <servlet-class>JW.sy7.Test01</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>test01</servlet-name>
+        <url-pattern>/test01</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ES</servlet-name>
+        <servlet-class>JW.sy7.EvaluateServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ES</servlet-name>
+        <url-pattern>/ES</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>test02</servlet-name><!-- name 可以自定义 -->
+        <servlet-class>JW.sy7.Test02</servlet-class> <!--必须是 servlet 类的完整类路径 -->
+        <!-- 初始化参数 局部-->
+        <init-param>
+            <param-name>uname</param-name>
+            <param-value>tom</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>test02</servlet-name><!-- 和上面的 name 一致 -->
+        <url-pattern>/Test02</url-pattern> <!-- 斜杠开头 -->
+    </servlet-mapping>
+
     <welcome-file-list>
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
 
     <context-param>
-        <param-name>author</param-name>
-        <param-value>fan</param-value>
+        <param-name>driver</param-name>
+        <param-value>com.mysql.jdbc.Driver</param-value>
     </context-param>
+
 
 </web-app>

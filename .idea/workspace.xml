@@ -10,25 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/web/el-demo1.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/idea_workspace_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/idea_workspace_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy7/EvaluateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy7/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy7/SecondServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy7/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JW/sy7/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy7/Exam.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy7/Second.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy7/Show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WebContent/sy7/first.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea-workspace.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JW/sy1/jumpToServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JW/sy1/jumpToServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy1/no2/SalesMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy1/no2/SalesMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/sy3/no3/HouseOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/sy3/no3/HouseOwner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QD/zy3/no3/SDAdapterTF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QD/zy3/no3/SDAdapterTF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebContent/sy4/no3/doregister.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy4/no3/doregister.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebContent/sy4/no4/doBookinfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy4/no4/doBookinfo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebContent/sy4/no7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy4/no7.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebContent/sy6/demo5/doIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy6/demo5/doIndex.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebContent/sy6/demo5/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy6/demo5/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebContent/sy6/jstl-demo1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy6/jstl-demo1.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebContent/sy6/jstl-demo6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy6/jstl-demo6.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/WEB-INF/web.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +107,7 @@
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "21 (2)",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/l/idea-workspace/web",
+    "last_opened_file_path": "C:/Users/l/idea-workspace/web/WebContent/sy7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -168,11 +160,11 @@
       <recent name="sy1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\web\WebContent\sy7" />
       <recent name="C:\Users\l\idea-workspace\web" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy6" />
       <recent name="C:\Users\l\idea-workspace\src\JW\sy6" />
-      <recent name="C:\Users\l\idea-workspace" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\l\idea-workspace\web\WEB-INF" />
@@ -448,7 +440,8 @@
       <workItem from="1715489484261" duration="2057000" />
       <workItem from="1715491620356" duration="18000" />
       <workItem from="1715491647481" duration="2994000" />
-      <workItem from="1715669543449" duration="9972000" />
+      <workItem from="1715669543449" duration="11716000" />
+      <workItem from="1715761610071" duration="5975000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -818,7 +811,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715673416892</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="commit">
+      <option name="closed" value="true" />
+      <created>1715680830616</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1715680830616</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
