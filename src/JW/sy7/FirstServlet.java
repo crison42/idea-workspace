@@ -1,12 +1,13 @@
 package JW.sy7;
 
-import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.io.PrintStream;
 import java.io.Serial;
+import java.nio.charset.StandardCharsets;
 
 @WebServlet("/FirstServlet")
 public class FirstServlet extends HttpServlet {
@@ -15,10 +16,11 @@ public class FirstServlet extends HttpServlet {
 
     public FirstServlet() {
         super();
+        System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws
-            ServletException, IOException {
+            IOException {
         System.out.println("FirstServlet--->>> 进入 doGet 方法，交由 doPost 方法处理...");
         doPost(request, response);
     }

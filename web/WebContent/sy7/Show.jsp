@@ -29,7 +29,7 @@
         else
             out.println("错误！" + "<br>");
     } else
-        out.println("二、没有解答！");
+        out.println("二、没有解答！" + "<br>");
     out.println("----------------------");
     String[] s31 = request.getParameterValues("list1");
     if (s31 != null) {

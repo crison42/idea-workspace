@@ -7,8 +7,8 @@
     <title>简单的网上试题自动评测-试题</title>
 </head>
 <body>
-<form action="Show.jsp" method="post">
-    <%--<form action="/ES" method="post">--%>
+<%--<form action="Show.jsp" method="post">--%>
+<form action="/evaluate" method="post">
     一、2+3=？<br>
     <input type="radio" name="r1" value="2"
            checked="checked">2&nbsp;&nbsp;

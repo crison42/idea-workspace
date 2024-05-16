@@ -5,8 +5,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.io.Serial;
+import java.nio.charset.StandardCharsets;
 
 /**
  * Servlet implementation class SecondServlet
@@ -21,6 +23,7 @@ public class SecondServlet extends HttpServlet {
      */
     public SecondServlet() {
         super();
+        System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
 // TODO Auto-generated constructor stub
     }
 

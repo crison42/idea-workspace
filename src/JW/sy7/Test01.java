@@ -2,20 +2,22 @@ package JW.sy7;
 
 import javax.servlet.Servlet;
 import javax.servlet.ServletConfig;
-import javax.servlet.ServletRequest;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.io.Serial;
+import java.nio.charset.StandardCharsets;
 
 /**
  * Servlet implementation class Test01
  */
 @WebServlet("/Test01")
 public class Test01 extends HttpServlet {
+
     @Serial
     private static final long serialVersionUID = 1L;
 
@@ -23,6 +25,7 @@ public class Test01 extends HttpServlet {
      * @see HttpServlet#HttpServlet()
      */
     public Test01() {
+        System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
         System.out.println("servlet 创建了");
     }
 
@@ -38,24 +41,6 @@ public class Test01 extends HttpServlet {
      */
     public void destroy() {
         System.out.println("servlet 销毁了");
-    }
-
-    /**
-     * @see HttpServlet#service(HttpServletRequest request,
-     * HttpServletResponse response)
-     */
-    protected void service(ServletRequest servletRequest,
-                           HttpServletResponse servletResponse) throws
-            IOException {
-        HttpServletRequest request = (HttpServletRequest)
-                servletRequest;
-        HttpServletResponse response = servletResponse;
-        System.out.println("servlet 服务启动了");
-        String method = request.getMethod();
-        if ("get".equalsIgnoreCase(method))
-            this.doGet(request, response);
-        else if ("post".equalsIgnoreCase(method))
-            this.doPost(request, response);
     }
 
     /**
