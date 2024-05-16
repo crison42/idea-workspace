@@ -10,17 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7e4b56-ffa5-4838-9824-e0f6ea7ee4f5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JW/sy7/EvaluateServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy7/FirstServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy7/SecondServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy7/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JW/sy7/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy7/Exam.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy7/Second.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy7/Show.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebContent/sy7/first.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JW/sy7/FirstServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JW/sy7/FirstServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WebContent/sy7/first.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebContent/sy7/first.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +29,12 @@
         <option value="Interface" />
         <option value="Class" />
         <option value="Jsp File" />
+        <option value="module-info" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,6 +64,9 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -109,16 +109,19 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/l/idea-workspace/web/WebContent/sy7",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Administrator/idea-workspace/src/Main.java",
-    "project.structure.last.edited": "项目",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Client.executor": "Run",
     "应用程序.Demo1.executor": "Run",
@@ -148,11 +151,6 @@
     ]
   }
 }]]></component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription localRun="true" path="C:\Users\l\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="92f0c6fb-0e19-4013-8278-49f8a159eba2" reportId="idea-workspace/qodana/2024-05-14" />
-    </option>
-  </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JW.sy6" />
@@ -161,17 +159,17 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy7" />
-      <recent name="C:\Users\l\idea-workspace\web" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent" />
+      <recent name="C:\Users\l\idea-workspace\web" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy6" />
       <recent name="C:\Users\l\idea-workspace\src\JW\sy6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\l\idea-workspace\web\WebContent\sy7" />
       <recent name="C:\Users\l\idea-workspace\web\WEB-INF" />
       <recent name="C:\Users\l\idea-workspace\web\WEB-INF\lib" />
       <recent name="C:\Users\l\idea-workspace" />
       <recent name="C:\Users\l\idea-workspace\web\WebContent\sy5\no1" />
-      <recent name="C:\Users\l\idea-workspace\web\WebContent\sy4\no6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JW.sy4.no7" />
@@ -441,7 +439,8 @@
       <workItem from="1715491620356" duration="18000" />
       <workItem from="1715491647481" duration="2994000" />
       <workItem from="1715669543449" duration="11716000" />
-      <workItem from="1715761610071" duration="5975000" />
+      <workItem from="1715761610071" duration="7963000" />
+      <workItem from="1715824935427" duration="221000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -819,7 +818,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715680830616</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="commit">
+      <option name="closed" value="true" />
+      <created>1715771472995</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1715771472995</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

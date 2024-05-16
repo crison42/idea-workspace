@@ -24,7 +24,7 @@ public class FirstServlet extends HttpServlet {
     }
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws
-            ServletException, IOException {
+            IOException {
         System.out.println("FirstServlet--->>> 执行 POST 请求...");
         // 转发到 second.jsp，使用相对路径
         //request.getRequestDispatcher("second.jsp").forward(request, response);
