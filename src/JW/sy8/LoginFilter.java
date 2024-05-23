@@ -41,7 +41,7 @@ public class LoginFilter implements Filter {
         } else {
             // 没有登陆，存储提示信息，跳转到登录页面
             req.setAttribute("login_msg", "您尚未登陆！");
-            req.getRequestDispatcher("/login.jsp").forward(req, response);
+            req.getRequestDispatcher("login.jsp").forward(req, response);
         }
     }
 

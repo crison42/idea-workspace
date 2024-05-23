@@ -66,7 +66,6 @@
         <servlet-name>Servlet1</servlet-name>
         <url-pattern>/Servlet1</url-pattern>
     </servlet-mapping>
-
     <servlet>
         <servlet-name>test01</servlet-name>
         <servlet-class>JW.sy7.Test01</servlet-class>
